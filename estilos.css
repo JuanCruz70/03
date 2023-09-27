@@ -1,0 +1,52 @@
+/* Estilos para la página web */
+body
+
+/*El body le da color a la pagina completa, a todo lo que contiene*/
+    {
+    background-color: #ff0000;
+    font-size: 16px;
+}
+
+h1
+
+/*da el color al h1*/
+    {
+    font-size: 36px;
+    color: #3cff00;
+}
+
+.encabezado
+
+/*Pone el titulo en el medio de la pantalla*/
+    {
+    text-align: center;
+    /*alineacion del texto, lo pone en el medio, en la izquierda o derecha*/
+    text-transform: uppercase;
+    /*Cambia las letras o palabras en mayusculas o minusculas*/
+    font-weight: bold;
+    font-size: 50px;
+    /*Le cambia el tamaño a las letras*/
+}
+
+.parrafo
+
+/*Modifica el parrafo de tu pagina*/
+    {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 35px;
+    color: #002fff
+}
+
+#fondo /*Agrega un ID fondo unico a la pagina*/
+{  
+    background-color: #9c6b00; /* modificar el color a elección */
+    }
+
+    p a /*Agrega un enlace a un parrafo de mi pagina*/
+    {  
+        color: #0066ff;  
+        text-decoration: none;
+        }
+        
+    
